@@ -267,7 +267,8 @@ const styles = StyleSheet.create({
     textAlign: 'center',
     lineHeight: 60,
     fontSize: 30,
-    fontWeight: 'bold'
+    fontWeight: 'bold',
+    marginBottom: 15,
   },
 
   emptyTitle: {
