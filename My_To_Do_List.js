@@ -273,7 +273,8 @@ const styles = StyleSheet.create({
 
   emptyTitle: {
     fontSize: 20,
-    fontWeight: 'bold'
+    fontWeight: 'bold',
+    color: '#111827',
   },
 
   emptyText: {
