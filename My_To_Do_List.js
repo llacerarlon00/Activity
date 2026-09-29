@@ -279,6 +279,7 @@ const styles = StyleSheet.create({
 
   emptyText: {
     fontSize: 14,
-    color: '#6B7280'
+    color: '#6B7280',
+    marginTop: 6,
   },
 });
